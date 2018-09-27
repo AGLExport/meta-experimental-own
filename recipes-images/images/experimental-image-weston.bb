@@ -30,6 +30,7 @@ IMAGE_INSTALL_append = " connman connman-client connman-tools "
 IMAGE_INSTALL_append = " \
     qtbase qtbase-plugins \
     qt3d qt3d-plugins qt3d-qmlplugins \
+    qt3d-runtime qt3d-runtime-plugins qt3d-runtime-qmlplugins \
     qtwayland  qtwayland-plugins qtwayland-qmlplugins \
     qtlocation qtlocation-plugins qtlocation-qmlplugins \
     qtmultimedia qtmultimedia-plugins qtmultimedia-qmlplugins \
