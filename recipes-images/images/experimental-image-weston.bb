@@ -34,5 +34,8 @@ IMAGE_INSTALL_append = " \
     qtwayland  qtwayland-plugins qtwayland-qmlplugins \
     qtlocation qtlocation-plugins qtlocation-qmlplugins \
     qtmultimedia qtmultimedia-plugins qtmultimedia-qmlplugins \
-    \
+    qtquickcontrols qtquickcontrols-plugins \
+    qtquickcontrols-qmlplugins qtquickcontrols-qmldesigner \
+    qtquickcontrols2 qtquickcontrols2-plugins \
+    qtquickcontrols2-qmlplugins qtquickcontrols2-qmldesigner \
     "
